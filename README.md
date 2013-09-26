@@ -16,6 +16,9 @@ Ideas
 * Colorize the cubes.
 	- Use color to differentiate between rivers, forests and mountains.
 
+* Different resolution
+	- Use larger cube in areas with lower detail. A large area that is flat could be just one big cube
+
 Timeframe
 ---------
 
