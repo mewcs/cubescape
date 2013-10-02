@@ -31,6 +31,13 @@ Milestones
 	* Search for available heightmap data.
 		- What file formats are used and how well are those formats supported in
 		  Python?
+			* http://asterweb.jpl.nasa.gov/images/GDEM-10km-BW.png
+			* http://visibleearth.nasa.gov/view.php?id=73934
+				- Format:
+				  "The data are formatted as a single-channel 16-bit integer (two
+				  byte, long) signed raw binary file, with big-endian byte order and
+				  no header. Dimensions are 86400 columns (width, x) by 43200 lines
+				  (height, y)"
 	* Get familiar with the Blender API.
 		- What subset of the API will be used for this project?
 
